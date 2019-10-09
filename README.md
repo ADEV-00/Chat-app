@@ -1,1 +1,2 @@
-Chat app project form curse Modern JavaScript (from Novice to Ninja)
+Chat App Project
+This is chat app project that I made following Udemy course "Modern JavaScript (from Novice to Ninja)".
