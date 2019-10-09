@@ -1,0 +1,48 @@
+body {
+  background: linear-gradient(to right, #fd746c, #ff9068);
+}
+.chat-window {
+  box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.07);
+}
+
+.list-group {
+  background-color: white;
+}
+
+.username {
+  font-weight: bold;
+  background: linear-gradient(to right, #02aab0, #00cdac);
+  color: white;
+  border: 1px solid transparent;
+  border-radius: 10px;
+  padding: 2px 5px;
+}
+.time {
+  font-size: 0.7em;
+  color: #999;
+}
+
+.update-mssg {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.header {
+  background-color: white;
+}
+
+.container {
+  border-radius: 10px;
+}
+
+.my-3 {
+  padding-bottom: 1%;
+}
+
+h1 {
+  padding-top: 10px;
+}
+
+.container {
+  box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.07);
+}
